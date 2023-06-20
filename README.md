@@ -3,6 +3,7 @@
 ###### Sobre o Paola
 <p>Estou começando os meus estudos em Liguagens de Programação.</p>
 
+### Detalhes
 <div>
   <a href="https://github.com/paolaagda">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=paolaagda&show_icons=true&theme=gotham&include_all_comits=true&count_private=true"/>
