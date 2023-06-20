@@ -1,7 +1,7 @@
 # Bem-vindo(a) ao meu Perfil
 
 ###### Sobre o Paola
-<p>Estou começando os meus estudos de Liguagens de Programação.</p>
+<p>Estou começando os meus estudos em Liguagens de Programação.</p>
 
 ### Detalhes
 <div>
