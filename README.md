@@ -5,9 +5,7 @@
 
 <div>
   <a href="https://github.com/paolaagda">
-### Detalhes
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=paolaagda&show_icons=true&theme=gotham&include_all_comits=true&count_private=true"/>
-### Linguagens utilizadas
   <img height="180em" src=https://github-readme-stats.vercel.app/api/top-langs/?username=paolaagda&layout=compact&langs_count=6&theme=rose_pine"/>
 </div>
     
