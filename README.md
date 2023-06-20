@@ -15,7 +15,10 @@
   <img aling="center" alt="CSS3" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original-wordmark.svg"/>
 </div>
 
-<br>
+### Projetos
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=jornadadev2803&repo=TikTok-Clone-Project&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=jornadadev2803&repo=DevEmDobro-projeto-listagem-pokemon&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 
 ### Contatos
 <div>
