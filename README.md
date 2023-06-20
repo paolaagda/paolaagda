@@ -18,7 +18,7 @@
 ### Projetos
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=paolaagda&repo=TikTok-Clone-Project&theme=dark)](https://github.com/paolaagda/TikTok-Clone-Project)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=paolaagda&repo=DevEmDobro-projeto-listagem-pokemon&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=paolaagda&repo=DevEmDobro-projeto-listagem-pokemon&theme=dark)](https://github.com/paolaagda/DevEmDobro-projeto-listagem-pokemon)
 
 ### Contatos
 <div>
